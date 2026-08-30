@@ -1,6 +1,6 @@
 # Request Inspector
 
-**Request Inspector** is an advanced web traffic security tool built with Python and Playwright, designed to inspect outgoing and incoming HTTP/HTTPS requests, analyze endpoint behavior, and assist in vulnerability assessment and bug bounty hunting.
+**Request Inspector** is an advanced web traffic security tool with a built-in **Repeater** module, designed to inspect outgoing and incoming HTTP/S requests, analyze endpoint behavior, and assist in vulnerability assessment and bug bounty hunting.
 
 ---
 
